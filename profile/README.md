@@ -1,4 +1,4 @@
-## Hi there 👋
+## Rei Linux Official GitHub Page. Welcome! 👋
 
 <!--
 
